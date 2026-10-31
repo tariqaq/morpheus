@@ -1,6 +1,10 @@
-# fenixOS app template
+# Morpheus
 
-Starting point for an app on **fenixOS** (an ESP32-2432S028R board and its Windows app; `tariqaq/fenixOS`). Made for fenixOS **v0.1.13**. The starter app ("Starter") counts seconds on the PC and shows them on the board, with a switch and a button.
+A **fenixOS** app (ESP32-2432S028R board and its Windows app; `tariqaq/fenixOS`). Its board screen morphs to match what you are doing on the PC: a media player while music or video plays, a match read and quick controls while you game, call controls on Discord, and an AI glance for anything else. The PC half works out the context from Windows (media session, volume, foreground window) and DeepSeek reading screenshots.
+
+**Status: planning.** The code is still the template's starter app (a counter). See `ideas.md` for the design and decisions, `screens.md` for the board screens, and `fenixos-requests.md` for the fenixOS features Morpheus needs.
+
+The rest of this README is the fenixOS app template's guide, made for fenixOS **v0.1.13**.
 
 ## Start a new app
 
