@@ -6,7 +6,7 @@
   "min_fenixos": "0.1.13",
   "color": "teal",
   "icon": "timer",
-  "repo": "https://github.com/tariqaq/fenixos-starter",
+  "repo": "https://github.com/tariqaq/morpheus",
   "board": {},
   "pc": { "elevated": false },
   "permissions": [],
